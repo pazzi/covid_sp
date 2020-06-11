@@ -1,0 +1,1595 @@
+Adamantina
+Populacao:33894
+Obitos:3
+Indice (obitos):8.85112409275978e-05
+Total de casos:43
+Indice (casos):0.0012686611199622352
+Casos hoje:0
+***************************************************
+Adolfo
+Populacao:3447
+Obitos:0
+Indice (obitos):0.0
+Total de casos:3
+Indice (casos):0.0008703220191470844
+Casos hoje:0
+***************************************************
+Aguaí
+Populacao:35608
+Obitos:4
+Indice (obitos):0.00011233430689732644
+Total de casos:40
+Indice (casos):0.0011233430689732643
+Casos hoje:2
+***************************************************
+Agudos
+Populacao:36134
+Obitos:1
+Indice (obitos):2.7674766148226048e-05
+Total de casos:32
+Indice (casos):0.0008855925167432335
+Casos hoje:5
+***************************************************
+Alambari
+Populacao:5779
+Obitos:0
+Indice (obitos):0.0
+Total de casos:5
+Indice (casos):0.0008652015919709292
+Casos hoje:0
+***************************************************
+Alfredo Marcondes
+Populacao:3927
+Obitos:1
+Indice (obitos):0.00025464731347084286
+Total de casos:3
+Indice (casos):0.0007639419404125286
+Casos hoje:0
+***************************************************
+Altair
+Populacao:4036
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.0002477700693756194
+Casos hoje:0
+***************************************************
+Altinópolis
+Populacao:15553
+Obitos:0
+Indice (obitos):0.0
+Total de casos:5
+Indice (casos):0.00032148138622773744
+Casos hoje:0
+***************************************************
+Alto Alegre
+Populacao:4017
+Obitos:1
+Indice (obitos):0.00024894199651481205
+Total de casos:1
+Indice (casos):0.00024894199651481205
+Casos hoje:0
+***************************************************
+Alumínio
+Populacao:17972
+Obitos:1
+Indice (obitos):5.564210994880926e-05
+Total de casos:11
+Indice (casos):0.0006120632094369019
+Casos hoje:0
+***************************************************
+Alvinlândia
+Populacao:3176
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.00031486146095717883
+Casos hoje:0
+***************************************************
+Americana
+Populacao:233458
+Obitos:8
+Indice (obitos):3.426740570038294e-05
+Total de casos:145
+Indice (casos):0.0006210967283194408
+Casos hoje:10
+***************************************************
+Amparo
+Populacao:69639
+Obitos:4
+Indice (obitos):5.743907867717802e-05
+Total de casos:53
+Indice (casos):0.0007610677924726087
+Casos hoje:7
+***************************************************
+Américo Brasiliense
+Populacao:40243
+Obitos:2
+Indice (obitos):4.969808413885645e-05
+Total de casos:49
+Indice (casos):0.001217603061401983
+Casos hoje:5
+***************************************************
+Américo de Campos
+Populacao:5736
+Obitos:0
+Indice (obitos):0.0
+Total de casos:4
+Indice (casos):0.000697350069735007
+Casos hoje:0
+***************************************************
+Andradina
+Populacao:56054
+Obitos:4
+Indice (obitos):7.135976023120562e-05
+Total de casos:42
+Indice (casos):0.000749277482427659
+Casos hoje:1
+***************************************************
+Angatuba
+Populacao:24501
+Obitos:2
+Indice (obitos):8.162932125219379e-05
+Total de casos:26
+Indice (casos):0.0010611811762785191
+Casos hoje:3
+***************************************************
+Anhembi
+Populacao:6672
+Obitos:0
+Indice (obitos):0.0
+Total de casos:3
+Indice (casos):0.0004496402877697842
+Casos hoje:0
+***************************************************
+Anhumas
+Populacao:3963
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.0005046681806712087
+Casos hoje:0
+***************************************************
+Aparecida
+Populacao:35709
+Obitos:0
+Indice (obitos):0.0
+Total de casos:7
+Indice (casos):0.0001960290122938195
+Casos hoje:0
+***************************************************
+Apiaí
+Populacao:24666
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):8.108327252087895e-05
+Casos hoje:0
+***************************************************
+Arandu
+Populacao:6165
+Obitos:2
+Indice (obitos):0.00032441200324412003
+Total de casos:10
+Indice (casos):0.0016220600162206002
+Casos hoje:0
+***************************************************
+Araraquara
+Populacao:227618
+Obitos:4
+Indice (obitos):1.7573302638631392e-05
+Total de casos:296
+Indice (casos):0.001300424395258723
+Casos hoje:30
+***************************************************
+Araras
+Populacao:131057
+Obitos:3
+Indice (obitos):2.289080323828563e-05
+Total de casos:129
+Indice (casos):0.0009843045392462823
+Casos hoje:0
+***************************************************
+Araçariguama
+Populacao:20980
+Obitos:1
+Indice (obitos):4.766444232602478e-05
+Total de casos:17
+Indice (casos):0.0008102955195424214
+Casos hoje:1
+***************************************************
+Araçatuba
+Populacao:190469
+Obitos:7
+Indice (obitos):3.675138736487302e-05
+Total de casos:190
+Indice (casos):0.0009975376570465536
+Casos hoje:5
+***************************************************
+Araçoiaba da Serra
+Populacao:32390
+Obitos:1
+Indice (obitos):3.087372645878358e-05
+Total de casos:43
+Indice (casos):0.0013275702377276938
+Casos hoje:1
+***************************************************
+Arealva
+Populacao:8196
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.00012201073694485115
+Casos hoje:0
+***************************************************
+Areiópolis
+Populacao:10857
+Obitos:3
+Indice (obitos):0.00027631942525559546
+Total de casos:10
+Indice (casos):0.000921064750851985
+Casos hoje:0
+***************************************************
+Ariranha
+Populacao:9320
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.00021459227467811158
+Casos hoje:0
+***************************************************
+Artur Nogueira
+Populacao:52609
+Obitos:2
+Indice (obitos):3.8016308996559523e-05
+Total de casos:28
+Indice (casos):0.0005322283259518334
+Casos hoje:2
+***************************************************
+Arujá
+Populacao:89744
+Obitos:19
+Indice (obitos):0.0002117133178819754
+Total de casos:278
+Indice (casos):0.0030977001247994296
+Casos hoje:6
+***************************************************
+Aspásia
+Populacao:1765
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.0011331444759206798
+Casos hoje:1
+***************************************************
+Assis
+Populacao:101381
+Obitos:5
+Indice (obitos):4.93189059093913e-05
+Total de casos:59
+Indice (casos):0.0005819630897308174
+Casos hoje:0
+***************************************************
+Atibaia
+Populacao:139606
+Obitos:4
+Indice (obitos):2.8652063664885463e-05
+Total de casos:94
+Indice (casos):0.0006733234961248084
+Casos hoje:3
+***************************************************
+Auriflama
+Populacao:14471
+Obitos:0
+Indice (obitos):0.0
+Total de casos:3
+Indice (casos):0.0002073111740722825
+Casos hoje:0
+***************************************************
+Avanhandava
+Populacao:12114
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):8.254911672445105e-05
+Casos hoje:0
+***************************************************
+Avaré
+Populacao:87538
+Obitos:7
+Indice (obitos):7.996527222463388e-05
+Total de casos:66
+Indice (casos):0.0007539582809751194
+Casos hoje:9
+***************************************************
+Avaí
+Populacao:5288
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.00037821482602118004
+Casos hoje:0
+***************************************************
+Bady Bassitt
+Populacao:16329
+Obitos:4
+Indice (obitos):0.0002449629493539102
+Total de casos:30
+Indice (casos):0.0018372221201543267
+Casos hoje:0
+***************************************************
+Bananal
+Populacao:10651
+Obitos:0
+Indice (obitos):0.0
+Total de casos:5
+Indice (casos):0.0004694394892498357
+Casos hoje:0
+***************************************************
+Barbosa
+Populacao:7284
+Obitos:0
+Indice (obitos):0.0
+Total de casos:0
+Indice (casos):0.0
+Casos hoje:0
+***************************************************
+Bariri
+Populacao:33993
+Obitos:1
+Indice (obitos):2.9417821316153325e-05
+Total de casos:17
+Indice (casos):0.0005001029623746065
+Casos hoje:2
+***************************************************
+Barra Bonita
+Populacao:34914
+Obitos:1
+Indice (obitos):2.8641805579423727e-05
+Total de casos:34
+Indice (casos):0.0009738213897004067
+Casos hoje:1
+***************************************************
+Barra do Turvo
+Populacao:7687
+Obitos:1
+Indice (obitos):0.00013008976193573565
+Total de casos:9
+Indice (casos):0.001170807857421621
+Casos hoje:0
+***************************************************
+Barretos
+Populacao:118048
+Obitos:11
+Indice (obitos):9.31824342640282e-05
+Total de casos:272
+Indice (casos):0.002304147465437788
+Casos hoje:11
+***************************************************
+Barrinha
+Populacao:32338
+Obitos:1
+Indice (obitos):3.092337188447028e-05
+Total de casos:20
+Indice (casos):0.0006184674376894057
+Casos hoje:2
+***************************************************
+Barueri
+Populacao:264390
+Obitos:137
+Indice (obitos):0.0005181739097545293
+Total de casos:1326
+Indice (casos):0.005015318279813911
+Casos hoje:46
+***************************************************
+Barão de Antonina
+Populacao:3383
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.0002955956251847473
+Casos hoje:0
+***************************************************
+Bastos
+Populacao:20301
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):9.851731441800897e-05
+Casos hoje:0
+***************************************************
+Batatais
+Populacao:60222
+Obitos:1
+Indice (obitos):1.6605227325562086e-05
+Total de casos:20
+Indice (casos):0.00033210454651124176
+Casos hoje:2
+***************************************************
+Bauru
+Populacao:364225
+Obitos:15
+Indice (obitos):4.1183334477314845e-05
+Total de casos:345
+Indice (casos):0.0009472166929782415
+Casos hoje:26
+***************************************************
+Bebedouro
+Populacao:74155
+Obitos:2
+Indice (obitos):2.6970534690850245e-05
+Total de casos:27
+Indice (casos):0.0003641022183264783
+Casos hoje:3
+***************************************************
+Bernardino de Campos
+Populacao:10787
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):9.270418095856123e-05
+Casos hoje:0
+***************************************************
+Bertioga
+Populacao:63290
+Obitos:7
+Indice (obitos):0.00011060199083583504
+Total de casos:109
+Indice (casos):0.0017222310001580028
+Casos hoje:10
+***************************************************
+Bilac
+Populacao:7816
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.00012794268167860799
+Casos hoje:0
+***************************************************
+Birigui
+Populacao:121329
+Obitos:1
+Indice (obitos):8.242052600779697e-06
+Total de casos:59
+Indice (casos):0.00048628110344600217
+Casos hoje:0
+***************************************************
+Biritiba Mirim
+Populacao:32338
+Obitos:4
+Indice (obitos):0.00012369348753788113
+Total de casos:38
+Indice (casos):0.0011750881316098707
+Casos hoje:1
+***************************************************
+Boa Esperança do Sul
+Populacao:14582
+Obitos:0
+Indice (obitos):0.0
+Total de casos:12
+Indice (casos):0.000822932382389247
+Casos hoje:0
+***************************************************
+Bocaina
+Populacao:12135
+Obitos:1
+Indice (obitos):8.240626287597858e-05
+Total de casos:10
+Indice (casos):0.0008240626287597857
+Casos hoje:0
+***************************************************
+Bofete
+Populacao:11076
+Obitos:1
+Indice (obitos):9.028530155290719e-05
+Total de casos:8
+Indice (casos):0.0007222824124232575
+Casos hoje:0
+***************************************************
+Boituva
+Populacao:57292
+Obitos:4
+Indice (obitos):6.981777560566921e-05
+Total de casos:70
+Indice (casos):0.001221811073099211
+Casos hoje:1
+***************************************************
+Bom Jesus dos Perdões
+Populacao:24291
+Obitos:0
+Indice (obitos):0.0
+Total de casos:19
+Indice (casos):0.0007821827014120456
+Casos hoje:0
+***************************************************
+Boracéia
+Populacao:4759
+Obitos:0
+Indice (obitos):0.0
+Total de casos:5
+Indice (casos):0.0010506408909434755
+Casos hoje:0
+***************************************************
+Borborema
+Populacao:15323
+Obitos:0
+Indice (obitos):0.0
+Total de casos:10
+Indice (casos):0.0006526137179403511
+Casos hoje:0
+***************************************************
+Borebi
+Populacao:2579
+Obitos:0
+Indice (obitos):0.0
+Total de casos:4
+Indice (casos):0.0015509887553315238
+Casos hoje:0
+***************************************************
+Borá
+Populacao:812
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.0012315270935960591
+Casos hoje:0
+***************************************************
+Botucatu
+Populacao:141135
+Obitos:7
+Indice (obitos):4.959790271725653e-05
+Total de casos:325
+Indice (casos):0.0023027597690154816
+Casos hoje:21
+***************************************************
+Bragança Paulista
+Populacao:163980
+Obitos:12
+Indice (obitos):7.317965605561654e-05
+Total de casos:246
+Indice (casos):0.001500182949140139
+Casos hoje:2
+***************************************************
+Brejo Alegre
+Populacao:2768
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.000361271676300578
+Casos hoje:0
+***************************************************
+Brodowski
+Populacao:23943
+Obitos:1
+Indice (obitos):4.176586058555736e-05
+Total de casos:24
+Indice (casos):0.0010023806540533768
+Casos hoje:2
+***************************************************
+Brotas
+Populacao:23850
+Obitos:0
+Indice (obitos):0.0
+Total de casos:5
+Indice (casos):0.00020964360587002095
+Casos hoje:0
+***************************************************
+Buri
+Populacao:19678
+Obitos:0
+Indice (obitos):0.0
+Total de casos:7
+Indice (casos):0.00035572720804959856
+Casos hoje:1
+***************************************************
+Buritama
+Populacao:16596
+Obitos:0
+Indice (obitos):0.0
+Total de casos:16
+Indice (casos):0.0009640877319836105
+Casos hoje:0
+***************************************************
+Buritizal
+Populacao:4307
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.0004643603436266543
+Casos hoje:1
+***************************************************
+Bálsamo
+Populacao:8524
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.0002346316283435007
+Casos hoje:0
+***************************************************
+Cabreúva
+Populacao:49430
+Obitos:4
+Indice (obitos):8.092251669026907e-05
+Total de casos:70
+Indice (casos):0.0014161440420797087
+Casos hoje:6
+***************************************************
+Cachoeira Paulista
+Populacao:32231
+Obitos:0
+Indice (obitos):0.0
+Total de casos:10
+Indice (casos):0.00031026030839874656
+Casos hoje:1
+***************************************************
+Caconde
+Populacao:18854
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):5.303914288745094e-05
+Casos hoje:0
+***************************************************
+Caiabu
+Populacao:4103
+Obitos:1
+Indice (obitos):0.00024372410431391665
+Total de casos:3
+Indice (casos):0.00073117231294175
+Casos hoje:0
+***************************************************
+Caieiras
+Populacao:100612
+Obitos:37
+Indice (obitos):0.00036774937383214726
+Total de casos:338
+Indice (casos):0.003359440225817994
+Casos hoje:8
+***************************************************
+Caiuá
+Populacao:5600
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.00035714285714285714
+Casos hoje:2
+***************************************************
+Cajamar
+Populacao:77627
+Obitos:23
+Indice (obitos):0.0002962886624499208
+Total de casos:320
+Indice (casos):0.004122277042781506
+Casos hoje:26
+***************************************************
+Cajati
+Populacao:28992
+Obitos:0
+Indice (obitos):0.0
+Total de casos:20
+Indice (casos):0.0006898454746136866
+Casos hoje:0
+***************************************************
+Cajobi
+Populacao:10105
+Obitos:1
+Indice (obitos):9.896091044037604e-05
+Total de casos:6
+Indice (casos):0.0005937654626422563
+Casos hoje:0
+***************************************************
+Cajuru
+Populacao:25663
+Obitos:1
+Indice (obitos):3.896660561898453e-05
+Total de casos:5
+Indice (casos):0.00019483302809492265
+Casos hoje:1
+***************************************************
+Campina do Monte Alegre
+Populacao:5812
+Obitos:0
+Indice (obitos):0.0
+Total de casos:6
+Indice (casos):0.0010323468685478321
+Casos hoje:0
+***************************************************
+Campinas
+Populacao:1175501
+Obitos:90
+Indice (obitos):7.656309947843515e-05
+Total de casos:2247
+Indice (casos):0.001911525383644931
+Casos hoje:148
+***************************************************
+Campo Limpo Paulista
+Populacao:82842
+Obitos:14
+Indice (obitos):0.00016899640279085488
+Total de casos:94
+Indice (casos):0.0011346901330243112
+Casos hoje:5
+***************************************************
+Campos Novos Paulista
+Populacao:4817
+Obitos:0
+Indice (obitos):0.0
+Total de casos:0
+Indice (casos):0.0
+Casos hoje:0
+***************************************************
+Campos do Jordão
+Populacao:50118
+Obitos:1
+Indice (obitos):1.995291112973383e-05
+Total de casos:41
+Indice (casos):0.0008180693563190869
+Casos hoje:3
+***************************************************
+Cananéia
+Populacao:12341
+Obitos:2
+Indice (obitos):0.00016206142127866461
+Total de casos:17
+Indice (casos):0.0013775220808686492
+Casos hoje:0
+***************************************************
+Canas
+Populacao:5064
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.00019747235387045813
+Casos hoje:0
+***************************************************
+Capela do Alto
+Populacao:20542
+Obitos:0
+Indice (obitos):0.0
+Total de casos:45
+Indice (casos):0.002190633823386233
+Casos hoje:7
+***************************************************
+Capivari
+Populacao:54231
+Obitos:0
+Indice (obitos):0.0
+Total de casos:56
+Indice (casos):0.001032619719348712
+Casos hoje:0
+***************************************************
+Capão Bonito
+Populacao:46418
+Obitos:4
+Indice (obitos):8.617346718945237e-05
+Total de casos:23
+Indice (casos):0.0004954974363393511
+Casos hoje:1
+***************************************************
+Caraguatatuba
+Populacao:116106
+Obitos:8
+Indice (obitos):6.890255456221039e-05
+Total de casos:175
+Indice (casos):0.0015072433810483523
+Casos hoje:4
+***************************************************
+Carapicuíba
+Populacao:394598
+Obitos:83
+Indice (obitos):0.00021034065048479718
+Total de casos:1198
+Indice (casos):0.0030360011961540604
+Casos hoje:42
+***************************************************
+Cardoso
+Populacao:11721
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):8.531695247845747e-05
+Casos hoje:0
+***************************************************
+Casa Branca
+Populacao:29462
+Obitos:0
+Indice (obitos):0.0
+Total de casos:5
+Indice (casos):0.00016971013508926754
+Casos hoje:1
+***************************************************
+Castilho
+Populacao:20728
+Obitos:1
+Indice (obitos):4.8243921265920496e-05
+Total de casos:5
+Indice (casos):0.00024121960632960247
+Casos hoje:0
+***************************************************
+Catanduva
+Populacao:117206
+Obitos:10
+Indice (obitos):8.531986417077624e-05
+Total de casos:134
+Indice (casos):0.0011432861798884016
+Casos hoje:8
+***************************************************
+Catiguá
+Populacao:7529
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.0002656395271616417
+Casos hoje:0
+***************************************************
+Caçapava
+Populacao:91217
+Obitos:3
+Indice (obitos):3.2888606290494095e-05
+Total de casos:59
+Indice (casos):0.0006468092570463839
+Casos hoje:1
+***************************************************
+Cedral
+Populacao:8836
+Obitos:0
+Indice (obitos):0.0
+Total de casos:4
+Indice (casos):0.0004526935264825713
+Casos hoje:1
+***************************************************
+Cerqueira César
+Populacao:19213
+Obitos:0
+Indice (obitos):0.0
+Total de casos:5
+Indice (casos):0.00026024046218706083
+Casos hoje:0
+***************************************************
+Cerquilho
+Populacao:46411
+Obitos:3
+Indice (obitos):6.463984831182263e-05
+Total de casos:16
+Indice (casos):0.000344745857663054
+Casos hoje:1
+***************************************************
+Cesário Lange
+Populacao:17248
+Obitos:1
+Indice (obitos):5.797773654916512e-05
+Total de casos:8
+Indice (casos):0.00046382189239332097
+Casos hoje:0
+***************************************************
+Charqueada
+Populacao:16933
+Obitos:3
+Indice (obitos):0.00017716884190633673
+Total de casos:58
+Indice (casos):0.0034252642768558437
+Casos hoje:0
+***************************************************
+Chavantes
+Populacao:12223
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):8.181297553792031e-05
+Casos hoje:0
+***************************************************
+Colina
+Populacao:17603
+Obitos:2
+Indice (obitos):0.00011361699710276657
+Total de casos:10
+Indice (casos):0.0005680849855138328
+Casos hoje:0
+***************************************************
+Conchal
+Populacao:27284
+Obitos:0
+Indice (obitos):0.0
+Total de casos:9
+Indice (casos):0.0003298636563553731
+Casos hoje:2
+***************************************************
+Conchas
+Populacao:17134
+Obitos:1
+Indice (obitos):5.836348780203105e-05
+Total de casos:12
+Indice (casos):0.0007003618536243726
+Casos hoje:1
+***************************************************
+Cordeirópolis
+Populacao:24356
+Obitos:0
+Indice (obitos):0.0
+Total de casos:50
+Indice (casos):0.002052882246674331
+Casos hoje:1
+***************************************************
+Coroados
+Populacao:5926
+Obitos:1
+Indice (obitos):0.00016874789065136686
+Total de casos:12
+Indice (casos):0.0020249746878164025
+Casos hoje:0
+***************************************************
+Coronel Macedo
+Populacao:4843
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.00020648358455502787
+Casos hoje:0
+***************************************************
+Cosmorama
+Populacao:6997
+Obitos:1
+Indice (obitos):0.00014291839359725596
+Total de casos:5
+Indice (casos):0.0007145919679862799
+Casos hoje:0
+***************************************************
+Cosmópolis
+Populacao:71282
+Obitos:1
+Indice (obitos):1.4028787071069835e-05
+Total de casos:29
+Indice (casos):0.0004068348250610252
+Casos hoje:0
+***************************************************
+Cotia
+Populacao:247424
+Obitos:58
+Indice (obitos):0.00023441541645111225
+Total de casos:683
+Indice (casos):0.002760443610967408
+Casos hoje:25
+***************************************************
+Cravinhos
+Populacao:34428
+Obitos:1
+Indice (obitos):2.9046125246892064e-05
+Total de casos:27
+Indice (casos):0.0007842453816660857
+Casos hoje:3
+***************************************************
+Cruzeiro
+Populacao:79927
+Obitos:2
+Indice (obitos):2.502283333541857e-05
+Total de casos:33
+Indice (casos):0.0004128767500344064
+Casos hoje:1
+***************************************************
+Cubatão
+Populacao:129145
+Obitos:46
+Indice (obitos):0.00035618878005342833
+Total de casos:509
+Indice (casos):0.003941306283634674
+Casos hoje:59
+***************************************************
+Cunha
+Populacao:21681
+Obitos:0
+Indice (obitos):0.0
+Total de casos:5
+Indice (casos):0.00023061666897283335
+Casos hoje:0
+***************************************************
+Cássia dos Coqueiros
+Populacao:2495
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.0008016032064128256
+Casos hoje:0
+***************************************************
+Cândido Mota
+Populacao:30019
+Obitos:0
+Indice (obitos):0.0
+Total de casos:6
+Indice (casos):0.00019987341350478032
+Casos hoje:1
+***************************************************
+Cândido Rodrigues
+Populacao:2674
+Obitos:0
+Indice (obitos):0.0
+Total de casos:10
+Indice (casos):0.0037397157816005983
+Casos hoje:0
+***************************************************
+Descalvado
+Populacao:32430
+Obitos:1
+Indice (obitos):3.0835646006783845e-05
+Total de casos:10
+Indice (casos):0.0003083564600678384
+Casos hoje:1
+***************************************************
+Diadema
+Populacao:404477
+Obitos:93
+Indice (obitos):0.00022992654712134436
+Total de casos:1418
+Indice (casos):0.0035057617614845838
+Casos hoje:75
+***************************************************
+Divinolândia
+Populacao:10886
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):9.186110600771634e-05
+Casos hoje:0
+***************************************************
+Dobrada
+Populacao:8904
+Obitos:0
+Indice (obitos):0.0
+Total de casos:4
+Indice (casos):0.0004492362982929021
+Casos hoje:0
+***************************************************
+Dois Córregos
+Populacao:26972
+Obitos:2
+Indice (obitos):7.415097137772504e-05
+Total de casos:5
+Indice (casos):0.00018537742844431263
+Casos hoje:0
+***************************************************
+Dolcinópolis
+Populacao:2040
+Obitos:1
+Indice (obitos):0.0004901960784313725
+Total de casos:3
+Indice (casos):0.0014705882352941176
+Casos hoje:1
+***************************************************
+Dourado
+Populacao:8482
+Obitos:0
+Indice (obitos):0.0
+Total de casos:3
+Indice (casos):0.0003536901674133459
+Casos hoje:0
+***************************************************
+Dracena
+Populacao:44995
+Obitos:2
+Indice (obitos):4.44493832648072e-05
+Total de casos:37
+Indice (casos):0.0008223135903989332
+Casos hoje:6
+***************************************************
+Duartina
+Populacao:11975
+Obitos:0
+Indice (obitos):0.0
+Total de casos:4
+Indice (casos):0.0003340292275574113
+Casos hoje:0
+***************************************************
+Dumont
+Populacao:9570
+Obitos:0
+Indice (obitos):0.0
+Total de casos:4
+Indice (casos):0.0004179728317659352
+Casos hoje:0
+***************************************************
+Echaporã
+Populacao:6217
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.00016084928422068523
+Casos hoje:0
+***************************************************
+Eldorado
+Populacao:15236
+Obitos:1
+Indice (obitos):6.563402467839328e-05
+Total de casos:5
+Indice (casos):0.0003281701233919664
+Casos hoje:0
+***************************************************
+Elias Fausto
+Populacao:17346
+Obitos:1
+Indice (obitos):5.765017871555402e-05
+Total de casos:7
+Indice (casos):0.0004035512510088781
+Casos hoje:0
+***************************************************
+Elisiário
+Populacao:3499
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.0002857959416976279
+Casos hoje:0
+***************************************************
+Embaúba
+Populacao:2409
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.00041511000415110004
+Casos hoje:0
+***************************************************
+Embu das Artes
+Populacao:270790
+Obitos:53
+Indice (obitos):0.00019572362347206323
+Total de casos:621
+Indice (casos):0.0022932900033236087
+Casos hoje:27
+***************************************************
+Embu-Guaçu
+Populacao:68053
+Obitos:10
+Indice (obitos):0.0001469442934183651
+Total de casos:142
+Indice (casos):0.0020866089665407843
+Casos hoje:5
+***************************************************
+Emilianópolis
+Populacao:3068
+Obitos:0
+Indice (obitos):0.0
+Total de casos:4
+Indice (casos):0.001303780964797914
+Casos hoje:0
+***************************************************
+Engenheiro Coelho
+Populacao:20535
+Obitos:0
+Indice (obitos):0.0
+Total de casos:17
+Indice (casos):0.000827854881908936
+Casos hoje:0
+***************************************************
+Espírito Santo do Pinhal
+Populacao:42573
+Obitos:0
+Indice (obitos):0.0
+Total de casos:18
+Indice (casos):0.0004228031851173279
+Casos hoje:2
+***************************************************
+Estiva Gerbi
+Populacao:11079
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.00018052170773535519
+Casos hoje:1
+***************************************************
+Estrela d'Oeste
+Populacao:8094
+Obitos:0
+Indice (obitos):0.0
+Total de casos:4
+Indice (casos):0.0004941932295527551
+Casos hoje:3
+***************************************************
+Euclides da Cunha Paulista
+Populacao:9537
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.00010485477613505295
+Casos hoje:0
+***************************************************
+Fartura
+Populacao:15644
+Obitos:1
+Indice (obitos):6.392227051904884e-05
+Total de casos:9
+Indice (casos):0.0005753004346714395
+Casos hoje:0
+***************************************************
+Fernando Prestes
+Populacao:5572
+Obitos:0
+Indice (obitos):0.0
+Total de casos:3
+Indice (casos):0.0005384063173007897
+Casos hoje:0
+***************************************************
+Fernandópolis
+Populacao:66112
+Obitos:0
+Indice (obitos):0.0
+Total de casos:76
+Indice (casos):0.001149564375605034
+Casos hoje:7
+***************************************************
+Fernão
+Populacao:1649
+Obitos:0
+Indice (obitos):0.0
+Total de casos:0
+Indice (casos):0.0
+Casos hoje:0
+***************************************************
+Ferraz de Vasconcelos
+Populacao:193037
+Obitos:48
+Indice (obitos):0.0002486569932189166
+Total de casos:447
+Indice (casos):0.0023156182493511606
+Casos hoje:17
+***************************************************
+Floreal
+Populacao:2856
+Obitos:0
+Indice (obitos):0.0
+Total de casos:4
+Indice (casos):0.0014005602240896359
+Casos hoje:0
+***************************************************
+Flórida Paulista
+Populacao:12120
+Obitos:0
+Indice (obitos):0.0
+Total de casos:10
+Indice (casos):0.0008250825082508251
+Casos hoje:3
+***************************************************
+Franca
+Populacao:342125
+Obitos:3
+Indice (obitos):8.768724881256851e-06
+Total de casos:90
+Indice (casos):0.0002630617464377055
+Casos hoje:3
+***************************************************
+Francisco Morato
+Populacao:174403
+Obitos:23
+Indice (obitos):0.00013187846539337053
+Total de casos:512
+Indice (casos):0.002935729316582857
+Casos hoje:41
+***************************************************
+Franco da Rocha
+Populacao:152201
+Obitos:40
+Indice (obitos):0.0002628103626125978
+Total de casos:463
+Indice (casos):0.0030420299472408195
+Casos hoje:26
+***************************************************
+Gabriel Monteiro
+Populacao:2684
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.0007451564828614009
+Casos hoje:0
+***************************************************
+Garça
+Populacao:42483
+Obitos:0
+Indice (obitos):0.0
+Total de casos:13
+Indice (casos):0.0003060047548431137
+Casos hoje:0
+***************************************************
+Gastão Vidigal
+Populacao:4768
+Obitos:2
+Indice (obitos):0.00041946308724832214
+Total de casos:16
+Indice (casos):0.003355704697986577
+Casos hoje:7
+***************************************************
+Gavião Peixoto
+Populacao:4610
+Obitos:0
+Indice (obitos):0.0
+Total de casos:7
+Indice (casos):0.0015184381778741865
+Casos hoje:0
+***************************************************
+General Salgado
+Populacao:10648
+Obitos:0
+Indice (obitos):0.0
+Total de casos:8
+Indice (casos):0.0007513148009015778
+Casos hoje:2
+***************************************************
+Getulina
+Populacao:10847
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):9.219138932423711e-05
+Casos hoje:0
+***************************************************
+Guaimbê
+Populacao:5534
+Obitos:1
+Indice (obitos):0.00018070112034694616
+Total de casos:4
+Indice (casos):0.0007228044813877846
+Casos hoje:2
+***************************************************
+Guaiçara
+Populacao:11947
+Obitos:0
+Indice (obitos):0.0
+Total de casos:10
+Indice (casos):0.0008370302167908262
+Casos hoje:7
+***************************************************
+Guapiara
+Populacao:17775
+Obitos:2
+Indice (obitos):0.00011251758087201125
+Total de casos:6
+Indice (casos):0.00033755274261603374
+Casos hoje:0
+***************************************************
+Guapiaçu
+Populacao:20848
+Obitos:4
+Indice (obitos):0.0001918649270913277
+Total de casos:41
+Indice (casos):0.001966615502686109
+Casos hoje:1
+***************************************************
+Guaraci
+Populacao:10978
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.00018218254691200583
+Casos hoje:0
+***************************************************
+Guarani d'Oeste
+Populacao:1922
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.0005202913631633715
+Casos hoje:0
+***************************************************
+Guarantã
+Populacao:6477
+Obitos:0
+Indice (obitos):0.0
+Total de casos:11
+Indice (casos):0.0016983171221244403
+Casos hoje:3
+***************************************************
+Guararapes
+Populacao:32076
+Obitos:1
+Indice (obitos):3.117595710188303e-05
+Total de casos:18
+Indice (casos):0.0005611672278338945
+Casos hoje:0
+***************************************************
+Guararema
+Populacao:29429
+Obitos:6
+Indice (obitos):0.0002038805260117571
+Total de casos:50
+Indice (casos):0.0016990043834313093
+Casos hoje:3
+***************************************************
+Guaratinguetá
+Populacao:118345
+Obitos:2
+Indice (obitos):1.6899742278930245e-05
+Total de casos:32
+Indice (casos):0.0002703958764628839
+Casos hoje:0
+***************************************************
+Guaraçaí
+Populacao:8412
+Obitos:0
+Indice (obitos):0.0
+Total de casos:4
+Indice (casos):0.00047551117451260106
+Casos hoje:0
+***************************************************
+Guareí
+Populacao:15750
+Obitos:0
+Indice (obitos):0.0
+Total de casos:29
+Indice (casos):0.0018412698412698413
+Casos hoje:3
+***************************************************
+Guariba
+Populacao:39021
+Obitos:0
+Indice (obitos):0.0
+Total de casos:23
+Indice (casos):0.0005894262064016811
+Casos hoje:0
+***************************************************
+Guarujá
+Populacao:316405
+Obitos:66
+Indice (obitos):0.0002085934166653498
+Total de casos:1416
+Indice (casos):0.004475276939365686
+Casos hoje:122
+***************************************************
+Guarulhos
+Populacao:1351275
+Obitos:347
+Indice (obitos):0.00025679450888975225
+Total de casos:3238
+Indice (casos):0.002396255388429446
+Casos hoje:120
+***************************************************
+Guará
+Populacao:20824
+Obitos:1
+Indice (obitos):4.8021513638109875e-05
+Total de casos:1
+Indice (casos):4.8021513638109875e-05
+Casos hoje:0
+***************************************************
+Guatapará
+Populacao:7440
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.00013440860215053763
+Casos hoje:1
+***************************************************
+Guaíra
+Populacao:39061
+Obitos:0
+Indice (obitos):0.0
+Total de casos:33
+Indice (casos):0.0008448324415657561
+Casos hoje:1
+***************************************************
+Guzolândia
+Populacao:5107
+Obitos:0
+Indice (obitos):0.0
+Total de casos:1
+Indice (casos):0.00019580967299784609
+Casos hoje:0
+***************************************************
+Gália
+Populacao:6563
+Obitos:0
+Indice (obitos):0.0
+Total de casos:0
+Indice (casos):0.0
+Casos hoje:0
+***************************************************
+Herculândia
+Populacao:9260
+Obitos:0
+Indice (obitos):0.0
+Total de casos:9
+Indice (casos):0.0009719222462203023
+Casos hoje:2
+***************************************************
+Holambra
+Populacao:14493
+Obitos:0
+Indice (obitos):0.0
+Total de casos:15
+Indice (casos):0.0010349824052991099
+Casos hoje:1
+***************************************************
+Hortolândia
+Populacao:230268
+Obitos:13
+Indice (obitos):5.64559556690465e-05
+Total de casos:190
+Indice (casos):0.0008251255059322181
+Casos hoje:13
+***************************************************
+Iacanga
+Populacao:11306
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.0001768972227136034
+Casos hoje:0
+***************************************************
+Iacri
+Populacao:6272
+Obitos:0
+Indice (obitos):0.0
+Total de casos:2
+Indice (casos):0.00031887755102040814
+Casos hoje:0
+***************************************************
+Ibaté
+Populacao:34738
+Obitos:0
+Indice (obitos):0.0
+Total de casos:30
+Indice (casos):0.0008636075767171397
+Casos hoje:1
+***************************************************
+Ibirarema
+Populacao:7509
+Obitos:0
+Indice (obitos):0.0
+Total de casos:6
+Indice (casos):0.0007990411506192569
+Casos hoje:0
+***************************************************
+Ibirá
+Populacao:12059
+Obitos:0
+Indice (obitos):0.0
+Total de casos:4
+Indice (casos):0.00033170246289078697
+Casos hoje:0
+***************************************************
+Ibitinga
+Populacao:58501
+Obitos:2
+Indice (obitos):3.418744978718312e-05
+Total de casos:35
+Indice (casos):0.0005982803712757047
+Casos hoje:0
+***************************************************
+Ibiúna
+Populacao:76430
+Obitos:4
+Indice (obitos):5.2335470365039906e-05
+Total de casos:77
+Indice (casos):0.0010074578045270182
+Casos hoje:1
+***************************************************
+Iepê
+Populacao:7921
+Obitos:1
+Indice (obitos):0.00012624668602449185
+Total de casos:1
+Indice (casos):0.00012624668602449185
+Casos hoje:0
+***************************************************
+Igarapava
+Populacao:29456
+Obitos:1
+Indice (obitos):3.3948940793047254e-05
+Total de casos:10
+Indice (casos):0.00033948940793047255
+Casos hoje:3
+***************************************************
+Igaratá
+Populacao:9312
+Obitos:1
+Indice (obitos):0.00010738831615120275
+Total de casos:65
+Indice (casos):0.006980240549828179
+Casos hoje:14
+***************************************************
+Igaraçu do Tietê
+Populacao:24135
+Obitos:1
+Indice (obitos):4.1433602651750566e-05
+Total de casos:26
+Indice (casos):0.0010772736689455148
+Casos hoje:4
+***************************************************
+Ignorado
+Populacao:0
+Obitos:0
